@@ -1,0 +1,16 @@
+{
+    "TOKEN":"PASTE YOUR OWN",
+    "CHAINS":{
+        "kNULL":{
+            "PUB":"q0Bl2spIOIBhA5pviv6B69RdBcZls7iy+y4Wc3tgSVs="
+        },
+        "CARNAGE":{
+            "PUB":"DJBTwMSwyw/Zv3ct3cO83qFc6xWfWmd6+Rpfmy1rJho="
+        }
+    },
+
+    "NODE":{
+        "URL":"http://localhost:7777"
+    }
+
+}
